@@ -33,7 +33,7 @@ I am a **self-taught** enthusiast who loves bridging the gap between academic th
 ---
 
 ### ⚡ GitHub Stats
-![Nehansh's GitHub Stats](github-readme-stats.vercel.app)
+![Nehansh's GitHub Stats](github-readme-stats.vercel.app/api?username=Nehansh-alwala)
 <!-- This card shows which languages you use most (e.g., Python, JavaScript) -->
 ![Top Langs](github-readme-stats.vercel.app)
 
