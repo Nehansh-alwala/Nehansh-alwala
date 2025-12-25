@@ -31,11 +31,12 @@ I am a **self-taught** enthusiast who loves bridging the gap between academic th
 *   📝 **Portfolio:** https://nehansh-alwala.github.io/Nehansh_Alwala_portfolio/ (More updates in progress 😉)
 
 ---
-
+<!--
 ### ⚡ GitHub Stats
 ![Nehansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehansh-alwala)
-<!-- This card shows which languages you use most (e.g., Python, JavaScript) -->
+<!-- This card shows which languages you use most (e.g., Python, JavaScript) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehansh-alwala)](https://github.com/Nehansh-alwala/github-readme-stats)
+-->
 
 <!--
 **Nehansh-alwala/Nehansh-alwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
