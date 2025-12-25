@@ -33,9 +33,9 @@ I am a **self-taught** enthusiast who loves bridging the gap between academic th
 ---
 
 ### ⚡ GitHub Stats
-![Nehansh's GitHub Stats](github-readme-stats.vercel.app/api/top-langs?username=nehansh-alwala)
+![Nehansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehansh-alwala)
 <!-- This card shows which languages you use most (e.g., Python, JavaScript) -->
-![Top Langs](github-readme-stats.vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehansh-alwala)](https://github.com/Nehansh-alwala/github-readme-stats)
 
 <!--
 **Nehansh-alwala/Nehansh-alwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
